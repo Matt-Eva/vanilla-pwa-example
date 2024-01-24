@@ -15,9 +15,8 @@ self.addEventListener("install", (event) =>{
         addResourcesToCache([
             "/",
             "/index.html",
-            "/assets/index-9f1bda10.css",
-            "/assets/index-9f1bda10.css",
-            "/assets/Lato-Light-fb5343c4.ttf",
+            "/styles.css",
+            "/index.js",
             "/android-chrome-192x192.png",
             "/android-chrome-512x512.png",
             "/apple-touch-icon-180x180.png",
